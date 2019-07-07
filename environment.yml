@@ -23,11 +23,6 @@ dependencies:
   - jupyterlab_server=0.2.0=py37_0
   - libpng=1.6.37=h2a8f88b_0
   - libsodium=1.0.16=h9d3ae62_0
-  - m2w64-gcc-libgfortran=5.3.0=6
-  - m2w64-gcc-libs=5.3.0=7
-  - m2w64-gcc-libs-core=5.3.0=7
-  - m2w64-gmp=6.1.0=2
-  - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
   - markupsafe=1.1.1=py37he774522_0
   - mistune=0.8.4=py37he774522_0
   - msys2-conda-epoch=20160418=1
@@ -54,7 +49,6 @@ dependencies:
   - send2trash=1.5.0=py37_0
   - setuptools=40.8.0=py37_0
   - sip=4.19.8=py37h6538335_0
-  - sqlite=3.27.2=he774522_0
   - terminado=0.8.2=py37_0
   - testpath=0.4.2=py37_0
   - tornado=6.0.2=py37he774522_0
@@ -64,8 +58,6 @@ dependencies:
   - wcwidth=0.1.7=py37_0
   - webencodings=0.5.1=py37_1
   - wheel=0.33.1=py37_0
-  - wincertstore=0.2=py37_0
-  - winpty=0.4.3=4
   - zeromq=4.3.1=h33f27b4_3
   - zlib=1.2.11=h62dcd97_3
   - pip:
