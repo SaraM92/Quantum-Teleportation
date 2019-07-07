@@ -19,7 +19,6 @@ dependencies:
   - jupyter_core=4.4.0=py37_0
   - jupyterlab=0.35.4=py37hf63ae98_0
   - jupyterlab_server=0.2.0=py37_0
-  - libpng=1.6.37=h2a8f88b_0
   - nbconvert=5.5.0=py_0
   - nbformat=4.4.0=py37_0
   - notebook=5.7.8=py37_0
@@ -31,7 +30,6 @@ dependencies:
   - prometheus_client=0.6.0=py37_0
   - prompt_toolkit=2.0.9=py37_0
   - pygments=2.4.2=py_0
-  - python=3.7.3=h8c8aaf0_0
   - python-dateutil=2.8.0=py37_0
   - qtconsole=4.3.1=py37_0
   - send2trash=1.5.0=py37_0
